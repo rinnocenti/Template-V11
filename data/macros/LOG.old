@@ -1,0 +1,11 @@
+2023/10/11-17:46:59.847 fa8 Delete type=3 #1
+2023/10/11-18:03:00.790 459c Level-0 table #87: started
+2023/10/11-18:03:00.790 459c Level-0 table #87: 0 bytes OK
+2023/10/11-18:03:00.814 459c Delete type=0 #85
+2023/10/11-18:03:00.980 459c Manual compaction at level-0 from '!macros!10ExTazAjo9gVMG9' @ 72057594037927935 : 1 .. '!macros!zhoRTycfOiJIDvCJ' @ 0 : 0; will stop at '!macros!zhoRTycfOiJIDvCJ' @ 224 : 1
+2023/10/11-18:03:00.980 459c Compacting 1@0 + 0@1 files
+2023/10/11-18:03:01.031 459c Generated table #88@0: 80 keys, 53467 bytes
+2023/10/11-18:03:01.031 459c Compacted 1@0 + 0@1 files => 53467 bytes
+2023/10/11-18:03:01.064 459c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/11-18:03:01.064 459c Delete type=2 #83
+2023/10/11-18:03:01.322 459c Manual compaction at level-0 from '!macros!zhoRTycfOiJIDvCJ' @ 224 : 1 .. '!macros!zhoRTycfOiJIDvCJ' @ 0 : 0; will stop at (end)
