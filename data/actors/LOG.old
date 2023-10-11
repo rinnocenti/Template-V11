@@ -1,0 +1,45 @@
+2023/10/11-18:04:13.765 462c Recovering log #931
+2023/10/11-18:04:13.817 462c Delete type=0 #931
+2023/10/11-18:04:13.817 462c Delete type=3 #929
+2023/10/11-18:05:22.592 459c Level-0 table #954: started
+2023/10/11-18:05:22.620 459c Level-0 table #954: 159605 bytes OK
+2023/10/11-18:05:22.636 459c Delete type=0 #952
+2023/10/11-18:05:22.692 459c Manual compaction at level-0 from '!actors!01hoT0l1aJIMTwvI' @ 72057594037927935 : 1 .. '!actors.items.effects!zaBQX4v84nzvLu29.vUok0srh4cEWt7wj.0wnFqns0R4JBnu6V' @ 0 : 0; will stop at '!actors.items.effects!zxfILDEQ9xrDvweY.zTM9buospyHRrdWV.qtSoxaba46g09rTf' @ 69249 : 0
+2023/10/11-18:05:22.692 459c Compacting 1@0 + 0@1 files
+2023/10/11-18:05:22.716 459c Generated table #955@0: 3986 keys, 101387 bytes
+2023/10/11-18:05:22.755 459c Generated table #956@0: 1578 keys, 58366 bytes
+2023/10/11-18:05:22.755 459c Compacted 1@0 + 0@1 files => 159753 bytes
+2023/10/11-18:05:22.768 459c compacted to: files[ 0 2 15 0 0 0 0 ]
+2023/10/11-18:05:22.768 459c Delete type=2 #954
+2023/10/11-18:05:22.792 459c Manual compaction at level-0 from '!actors.items.effects!zxfILDEQ9xrDvweY.zTM9buospyHRrdWV.qtSoxaba46g09rTf' @ 69249 : 0 .. '!actors.items.effects!zaBQX4v84nzvLu29.vUok0srh4cEWt7wj.0wnFqns0R4JBnu6V' @ 0 : 0; will stop at (end)
+2023/10/11-18:05:22.842 459c Manual compaction at level-1 from '!actors!01hoT0l1aJIMTwvI' @ 72057594037927935 : 1 .. '!actors.items.effects!zaBQX4v84nzvLu29.vUok0srh4cEWt7wj.0wnFqns0R4JBnu6V' @ 0 : 0; will stop at '!actors.items.effects!zxfILDEQ9xrDvweY.zTM9buospyHRrdWV.qtSoxaba46g09rTf' @ 69249 : 0
+2023/10/11-18:05:22.842 459c Compacting 2@1 + 14@2 files
+2023/10/11-18:05:22.930 459c Generated table #957@1: 666 keys, 2116132 bytes
+2023/10/11-18:05:23.038 459c Generated table #958@1: 1457 keys, 2128355 bytes
+2023/10/11-18:05:23.132 459c Generated table #959@1: 1351 keys, 2125488 bytes
+2023/10/11-18:05:23.224 459c Generated table #960@1: 1452 keys, 2126531 bytes
+2023/10/11-18:05:23.313 459c Generated table #961@1: 1428 keys, 2124345 bytes
+2023/10/11-18:05:23.407 459c Generated table #962@1: 1474 keys, 2127418 bytes
+2023/10/11-18:05:23.516 459c Generated table #963@1: 1688 keys, 2129379 bytes
+2023/10/11-18:05:23.621 459c Generated table #964@1: 1422 keys, 2126550 bytes
+2023/10/11-18:05:23.721 459c Generated table #965@1: 2099 keys, 2128675 bytes
+2023/10/11-18:05:23.780 459c Generated table #966@1: 2440 keys, 887210 bytes
+2023/10/11-18:05:23.780 459c Compacted 2@1 + 14@2 files => 20020083 bytes
+2023/10/11-18:05:23.804 459c compacted to: files[ 0 0 11 0 0 0 0 ]
+2023/10/11-18:05:23.804 459c Delete type=2 #937
+2023/10/11-18:05:23.805 459c Delete type=2 #938
+2023/10/11-18:05:23.805 459c Delete type=2 #939
+2023/10/11-18:05:23.805 459c Delete type=2 #940
+2023/10/11-18:05:23.805 459c Delete type=2 #941
+2023/10/11-18:05:23.806 459c Delete type=2 #942
+2023/10/11-18:05:23.806 459c Delete type=2 #943
+2023/10/11-18:05:23.806 459c Delete type=2 #944
+2023/10/11-18:05:23.807 459c Delete type=2 #945
+2023/10/11-18:05:23.807 459c Delete type=2 #946
+2023/10/11-18:05:23.807 459c Delete type=2 #947
+2023/10/11-18:05:23.807 459c Delete type=2 #948
+2023/10/11-18:05:23.807 459c Delete type=2 #949
+2023/10/11-18:05:23.808 459c Delete type=2 #950
+2023/10/11-18:05:23.808 459c Delete type=2 #955
+2023/10/11-18:05:23.808 459c Delete type=2 #956
+2023/10/11-18:05:23.870 459c Manual compaction at level-1 from '!actors.items.effects!zxfILDEQ9xrDvweY.zTM9buospyHRrdWV.qtSoxaba46g09rTf' @ 69249 : 0 .. '!actors.items.effects!zaBQX4v84nzvLu29.vUok0srh4cEWt7wj.0wnFqns0R4JBnu6V' @ 0 : 0; will stop at (end)

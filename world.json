@@ -1,0 +1,186 @@
+{
+  "title": "O Despertar do Dragão Adormecido",
+  "id": "terca",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.313",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.313"
+  },
+  "systemVersion": "2.3.1",
+  "lastPlayed": "Sat Oct 14 2023 19:43:31 GMT-0300 (Horário Padrão de Brasília)",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-terca-ddb-backgrounds",
+      "path": "packs/ddb-terca-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-terca-ddb-classes",
+      "path": "packs/ddb-terca-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-terca-ddb-subclasses",
+      "path": "packs/ddb-terca-ddb-subclasses",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-terca-ddb-class-features",
+      "path": "packs/ddb-terca-ddb-class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-terca-ddb-feats",
+      "path": "packs/ddb-terca-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-terca-ddb-items",
+      "path": "packs/ddb-terca-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-terca-ddb-monsters",
+      "path": "packs/ddb-terca-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-terca-ddb-vehicles",
+      "path": "packs/ddb-terca-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-terca-ddb-races",
+      "path": "packs/ddb-terca-ddb-races",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-terca-ddb-racial-traits",
+      "path": "packs/ddb-terca-ddb-racial-traits",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-terca-ddb-spells",
+      "path": "packs/ddb-terca-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-terca-ddb-tables",
+      "path": "packs/ddb-terca-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-terca-ddb-override",
+      "path": "packs/ddb-terca-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-terca-ddb-adventures",
+      "path": "packs/ddb-terca-ddb-adventures",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 111707,
+  "description": "<p>A aventura Sleeping Dragon's Wake está chegando ao seu final, e vocês, aventureiros, têm que escolher entre missões que podem mudar o destino da região do Lago do Dragão Adormecido. Vocês receberam essas missões através de avisos na cidade de Leilon, onde vocês se estabeleceram depois de derrotar o dragão Cryovain na aventura anterior. Vocês sabem que os cultistas de Myrkul, o deus da morte, e de Talos, uma organização que venera os o deus maligno das tempesades, estão tramando algo terrível na região, e que eles estão envolvidos com o despertar de um dragão lendário chamado Ebondeath, que está adormecido. Vocês também sabem que Ebondeath é um dragão negro gigantesco, que tem o poder de espalhar a morte e a destruição por onde passa, e que ele foi um dos maiores inimigos de Bahamut, o deus dos dragões bondosos, no passado.</p>",
+  "background": "assets/journal/SDW/005-hvzlg-shadowy-bronze-dragon.jpg"
+}
