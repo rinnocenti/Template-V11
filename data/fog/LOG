@@ -1,0 +1,11 @@
+2023/10/11-18:06:26.368 3ad0 Delete type=3 #1
+2023/10/11-18:13:49.638 459c Level-0 table #103: started
+2023/10/11-18:13:49.638 459c Level-0 table #103: 0 bytes OK
+2023/10/11-18:13:49.663 459c Delete type=0 #101
+2023/10/11-18:13:49.722 459c Manual compaction at level-0 from '!fog!BDHSROFfQYyse5Oy' @ 72057594037927935 : 1 .. '!fog!dAWZx3lNmmocPKMj' @ 0 : 0; will stop at '!fog!dAWZx3lNmmocPKMj' @ 94 : 1
+2023/10/11-18:13:49.722 459c Compacting 1@0 + 0@1 files
+2023/10/11-18:13:49.763 459c Generated table #104@0: 3 keys, 89197 bytes
+2023/10/11-18:13:49.763 459c Compacted 1@0 + 0@1 files => 89197 bytes
+2023/10/11-18:13:49.787 459c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/11-18:13:49.787 459c Delete type=2 #99
+2023/10/11-18:13:50.687 459c Manual compaction at level-0 from '!fog!dAWZx3lNmmocPKMj' @ 94 : 1 .. '!fog!dAWZx3lNmmocPKMj' @ 0 : 0; will stop at (end)

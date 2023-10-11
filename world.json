@@ -1,0 +1,269 @@
+{
+  "title": "Tirania de Dragões",
+  "id": "sexta",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.313",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.313"
+  },
+  "systemVersion": "2.3.1",
+  "lastPlayed": "Wed Oct 11 2023 18:13:48 GMT-0300 (Horário Padrão de Brasília)",
+  "playtime": 111097,
+  "background": "assets/journal/ToD/Tiamat.jpg",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-sexta-ddb-backgrounds",
+      "path": "packs/ddb-sexta-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-backgrounds",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-sexta-ddb-classes",
+      "path": "packs/ddb-sexta-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-classes",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-sexta-ddb-subclasses",
+      "path": "packs/ddb-sexta-ddb-subclasses",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-subclasses",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-sexta-ddb-class-features",
+      "path": "packs/ddb-sexta-ddb-class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-class-features",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-sexta-ddb-feats",
+      "path": "packs/ddb-sexta-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-feats",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-sexta-ddb-items",
+      "path": "packs/ddb-sexta-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-items",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-sexta-ddb-monsters",
+      "path": "packs/ddb-sexta-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-monsters",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-sexta-ddb-vehicles",
+      "path": "packs/ddb-sexta-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-vehicles",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-sexta-ddb-races",
+      "path": "packs/ddb-sexta-ddb-races",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-races",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-sexta-ddb-racial-traits",
+      "path": "packs/ddb-sexta-ddb-racial-traits",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-racial-traits",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-sexta-ddb-spells",
+      "path": "packs/ddb-sexta-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-spells",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-sexta-ddb-tables",
+      "path": "packs/ddb-sexta-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-tables",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-sexta-ddb-override",
+      "path": "packs/ddb-sexta-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-override",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-sexta-ddb-adventures",
+      "path": "packs/ddb-sexta-ddb-adventures",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-sexta-ddb-adventures",
+      "packageType": "world",
+      "packageName": "sexta",
+      "index": [],
+      "folders": []
+    }
+  ]
+}

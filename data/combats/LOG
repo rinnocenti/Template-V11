@@ -1,0 +1,12 @@
+2023/10/11-18:06:26.093 23a4 Delete type=3 #1
+2023/10/11-18:06:26.093 459c Compacting 4@0 + 0@1 files
+2023/10/11-18:06:26.093 459c Compacted 4@0 + 0@1 files => 0 bytes
+2023/10/11-18:06:26.134 459c compacted to: files[ 0 0 0 0 0 0 0 ]
+2023/10/11-18:06:26.134 459c Delete type=2 #15
+2023/10/11-18:06:26.134 459c Delete type=2 #23
+2023/10/11-18:06:26.134 459c Delete type=2 #59
+2023/10/11-18:06:26.134 459c Delete type=2 #77
+2023/10/11-18:13:49.105 459c Level-0 table #81: started
+2023/10/11-18:13:49.105 459c Level-0 table #81: 0 bytes OK
+2023/10/11-18:13:49.130 459c Delete type=0 #79
+2023/10/11-18:13:49.172 459c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
