@@ -1,8 +1,15 @@
-2023/10/10-18:41:49.687 45d8 Recovering log #77
-2023/10/10-18:41:49.717 45d8 Delete type=0 #77
-2023/10/10-18:41:49.717 45d8 Delete type=3 #75
-2023/10/10-20:53:17.055 e10 Level-0 table #82: started
-2023/10/10-20:53:17.055 e10 Level-0 table #82: 0 bytes OK
-2023/10/10-20:53:17.069 e10 Delete type=0 #80
-2023/10/10-20:53:17.089 e10 Manual compaction at level-0 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)
-2023/10/10-20:53:17.089 e10 Manual compaction at level-1 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)
+2023/10/14-15:39:01.671 107c Recovering log #84
+2023/10/14-15:39:01.726 107c Delete type=0 #84
+2023/10/14-15:39:01.726 107c Delete type=3 #83
+2023/10/14-19:41:01.595 1634 Level-0 table #88: started
+2023/10/14-19:41:01.626 1634 Level-0 table #88: 2726 bytes OK
+2023/10/14-19:41:01.652 1634 Delete type=0 #86
+2023/10/14-19:41:01.677 1634 Manual compaction at level-0 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)
+2023/10/14-19:41:01.820 1634 Manual compaction at level-1 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at '!playlists.sounds!KA7WOhJ8oefyyPgP.rUKGV0pj6vAf88xW' @ 766 : 1
+2023/10/14-19:41:01.820 1634 Compacting 1@1 + 1@2 files
+2023/10/14-19:41:01.861 1634 Generated table #89@1: 629 keys, 86575 bytes
+2023/10/14-19:41:01.861 1634 Compacted 1@1 + 1@2 files => 86575 bytes
+2023/10/14-19:41:01.885 1634 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/14-19:41:01.885 1634 Delete type=2 #60
+2023/10/14-19:41:01.885 1634 Delete type=2 #88
+2023/10/14-19:41:01.886 1634 Manual compaction at level-1 from '!playlists.sounds!KA7WOhJ8oefyyPgP.rUKGV0pj6vAf88xW' @ 766 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)

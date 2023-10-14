@@ -1,15 +1,15 @@
-2023/10/10-18:41:49.782 1dfc Recovering log #108
-2023/10/10-18:41:49.826 1dfc Delete type=0 #108
-2023/10/10-18:41:49.826 1dfc Delete type=3 #103
-2023/10/10-20:53:17.776 e10 Level-0 table #114: started
-2023/10/10-20:53:17.938 e10 Level-0 table #114: 11809 bytes OK
-2023/10/10-20:53:17.951 e10 Delete type=0 #112
-2023/10/10-20:53:18.002 e10 Manual compaction at level-0 from '!scenes!1yqgbeVm1XcRE9X2' @ 72057594037927935 : 1 .. '!scenes.walls!a6RhtIev7PjdKdlI.wxbyeI65swssdMTd' @ 0 : 0; will stop at (end)
-2023/10/10-20:53:18.002 e10 Manual compaction at level-1 from '!scenes!1yqgbeVm1XcRE9X2' @ 72057594037927935 : 1 .. '!scenes.walls!a6RhtIev7PjdKdlI.wxbyeI65swssdMTd' @ 0 : 0; will stop at '!scenes.tokens!a6RhtIev7PjdKdlI.FJF3fdYBHxYhkDfF' @ 10534 : 1
-2023/10/10-20:53:18.002 e10 Compacting 1@1 + 1@2 files
-2023/10/10-20:53:18.068 e10 Generated table #115@1: 577 keys, 104060 bytes
-2023/10/10-20:53:18.068 e10 Compacted 1@1 + 1@2 files => 104060 bytes
-2023/10/10-20:53:18.084 e10 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/10-20:53:18.084 e10 Delete type=2 #110
-2023/10/10-20:53:18.084 e10 Delete type=2 #114
-2023/10/10-20:53:18.159 e10 Manual compaction at level-1 from '!scenes.tokens!a6RhtIev7PjdKdlI.FJF3fdYBHxYhkDfF' @ 10534 : 1 .. '!scenes.walls!a6RhtIev7PjdKdlI.wxbyeI65swssdMTd' @ 0 : 0; will stop at (end)
+2023/10/14-15:39:01.902 2af8 Recovering log #117
+2023/10/14-15:39:01.960 2af8 Delete type=0 #117
+2023/10/14-15:39:01.960 2af8 Delete type=3 #116
+2023/10/14-19:41:01.736 1634 Level-0 table #121: started
+2023/10/14-19:41:01.786 1634 Level-0 table #121: 254390 bytes OK
+2023/10/14-19:41:01.820 1634 Delete type=0 #119
+2023/10/14-19:41:01.886 1634 Manual compaction at level-0 from '!scenes!1yqgbeVm1XcRE9X2' @ 72057594037927935 : 1 .. '!scenes.walls!a6RhtIev7PjdKdlI.wxbyeI65swssdMTd' @ 0 : 0; will stop at (end)
+2023/10/14-19:41:01.886 1634 Manual compaction at level-1 from '!scenes!1yqgbeVm1XcRE9X2' @ 72057594037927935 : 1 .. '!scenes.walls!a6RhtIev7PjdKdlI.wxbyeI65swssdMTd' @ 0 : 0; will stop at '!scenes.tokens.delta.items!a6RhtIev7PjdKdlI.uPOZ2yNx1ogCDI2z.6HamsLOpRWMiaUZt.9y0oH4qvjdza8z1a' @ 10687 : 1
+2023/10/14-19:41:01.886 1634 Compacting 1@1 + 1@2 files
+2023/10/14-19:41:01.960 1634 Generated table #122@1: 566 keys, 100821 bytes
+2023/10/14-19:41:01.960 1634 Compacted 1@1 + 1@2 files => 100821 bytes
+2023/10/14-19:41:01.986 1634 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/14-19:41:01.986 1634 Delete type=2 #115
+2023/10/14-19:41:01.994 1634 Delete type=2 #121
+2023/10/14-19:41:02.103 1634 Manual compaction at level-1 from '!scenes.tokens.delta.items!a6RhtIev7PjdKdlI.uPOZ2yNx1ogCDI2z.6HamsLOpRWMiaUZt.9y0oH4qvjdza8z1a' @ 10687 : 1 .. '!scenes.walls!a6RhtIev7PjdKdlI.wxbyeI65swssdMTd' @ 0 : 0; will stop at (end)
