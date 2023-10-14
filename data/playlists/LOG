@@ -1,8 +1,15 @@
-2023/10/14-19:44:09.928 1a94 Recovering log #87
-2023/10/14-19:44:10.077 1a94 Delete type=0 #87
-2023/10/14-19:44:10.077 1a94 Delete type=3 #85
-2023/10/14-19:47:38.218 1634 Level-0 table #93: started
-2023/10/14-19:47:38.218 1634 Level-0 table #93: 0 bytes OK
-2023/10/14-19:47:38.293 1634 Delete type=0 #91
-2023/10/14-19:47:38.435 1634 Manual compaction at level-0 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)
-2023/10/14-19:47:38.789 1634 Manual compaction at level-1 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)
+2023/10/14-21:21:28.514 1c08 Recovering log #109
+2023/10/14-21:21:28.571 1c08 Delete type=0 #109
+2023/10/14-21:21:28.571 1c08 Delete type=3 #107
+2023/10/14-21:37:18.046 4a80 Level-0 table #114: started
+2023/10/14-21:37:18.073 4a80 Level-0 table #114: 5654 bytes OK
+2023/10/14-21:37:18.104 4a80 Delete type=0 #112
+2023/10/14-21:37:18.129 4a80 Manual compaction at level-0 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)
+2023/10/14-21:37:18.387 4a80 Manual compaction at level-1 from '!playlists!58r6PWXCxX1Vse5b' @ 72057594037927935 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at '!playlists.sounds!LBIh9UQsZWjFRk9X.yoEBuIUFCxacctmv' @ 900 : 1
+2023/10/14-21:37:18.387 4a80 Compacting 1@1 + 1@2 files
+2023/10/14-21:37:18.503 4a80 Generated table #115@1: 629 keys, 86613 bytes
+2023/10/14-21:37:18.503 4a80 Compacted 1@1 + 1@2 files => 86613 bytes
+2023/10/14-21:37:18.527 4a80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/14-21:37:18.527 4a80 Delete type=2 #102
+2023/10/14-21:37:18.528 4a80 Delete type=2 #114
+2023/10/14-21:37:18.587 4a80 Manual compaction at level-1 from '!playlists.sounds!LBIh9UQsZWjFRk9X.yoEBuIUFCxacctmv' @ 900 : 1 .. '!playlists.sounds!uindVuKh8RlfNbkr.xsuFQDcpizRSgPPJ' @ 0 : 0; will stop at (end)

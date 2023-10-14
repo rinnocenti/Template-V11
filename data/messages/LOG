@@ -1,22 +1,8 @@
-2023/10/14-19:44:07.449 2154 Recovering log #103
-2023/10/14-19:44:07.590 2154 Delete type=0 #103
-2023/10/14-19:44:07.591 2154 Delete type=3 #101
-2023/10/14-19:47:37.344 1634 Level-0 table #108: started
-2023/10/14-19:47:37.560 1634 Level-0 table #108: 5826 bytes OK
-2023/10/14-19:47:37.753 1634 Delete type=0 #106
-2023/10/14-19:47:37.753 1634 Manual compaction at level-0 from '!messages!31gizc9gaALJ4K5A' @ 72057594037927935 : 1 .. '!messages!rS0jFOzMpI3ot1De' @ 0 : 0; will stop at '!messages!rS0jFOzMpI3ot1De' @ 3745 : 1
-2023/10/14-19:47:37.753 1634 Compacting 1@0 + 1@1 files
-2023/10/14-19:47:37.844 1634 Generated table #109@0: 210 keys, 11505 bytes
-2023/10/14-19:47:37.844 1634 Compacted 1@0 + 1@1 files => 11505 bytes
-2023/10/14-19:47:37.919 1634 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/10/14-19:47:37.920 1634 Delete type=2 #104
-2023/10/14-19:47:37.920 1634 Delete type=2 #108
-2023/10/14-19:47:38.068 1634 Manual compaction at level-0 from '!messages!rS0jFOzMpI3ot1De' @ 3745 : 1 .. '!messages!rS0jFOzMpI3ot1De' @ 0 : 0; will stop at (end)
-2023/10/14-19:47:38.293 1634 Manual compaction at level-1 from '!messages!31gizc9gaALJ4K5A' @ 72057594037927935 : 1 .. '!messages!rS0jFOzMpI3ot1De' @ 0 : 0; will stop at '!messages!rS0jFOzMpI3ot1De' @ 3745 : 1
-2023/10/14-19:47:38.293 1634 Compacting 1@1 + 1@2 files
-2023/10/14-19:47:38.360 1634 Generated table #110@1: 15 keys, 5826 bytes
-2023/10/14-19:47:38.360 1634 Compacted 1@1 + 1@2 files => 5826 bytes
-2023/10/14-19:47:38.435 1634 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/14-19:47:38.435 1634 Delete type=2 #98
-2023/10/14-19:47:38.435 1634 Delete type=2 #109
-2023/10/14-19:47:38.789 1634 Manual compaction at level-1 from '!messages!rS0jFOzMpI3ot1De' @ 3745 : 1 .. '!messages!rS0jFOzMpI3ot1De' @ 0 : 0; will stop at (end)
+2023/10/14-21:21:28.040 47a0 Recovering log #126
+2023/10/14-21:21:28.096 47a0 Delete type=0 #126
+2023/10/14-21:21:28.096 47a0 Delete type=3 #124
+2023/10/14-21:37:17.222 4a80 Level-0 table #131: started
+2023/10/14-21:37:17.222 4a80 Level-0 table #131: 0 bytes OK
+2023/10/14-21:37:17.247 4a80 Delete type=0 #129
+2023/10/14-21:37:17.305 4a80 Manual compaction at level-0 from '!messages!Ntl4pwju7XwaoXHV' @ 72057594037927935 : 1 .. '!messages!iEupoht32aJfKARj' @ 0 : 0; will stop at (end)
+2023/10/14-21:37:17.305 4a80 Manual compaction at level-1 from '!messages!Ntl4pwju7XwaoXHV' @ 72057594037927935 : 1 .. '!messages!iEupoht32aJfKARj' @ 0 : 0; will stop at (end)
