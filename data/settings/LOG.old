@@ -1,34 +1,24 @@
-2023/10/14-15:39:02.006 2154 Recovering log #115
-2023/10/14-15:39:02.020 2154 Level-0 table #117: started
-2023/10/14-15:39:02.051 2154 Level-0 table #117: 5876 bytes OK
-2023/10/14-15:39:02.092 2154 Delete type=0 #115
-2023/10/14-15:39:02.093 2154 Delete type=3 #114
-2023/10/14-16:33:06.593 1634 Moved #117 to level-1 5876 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2023/10/14-17:00:51.747 1634 Compacting 1@1 + 1@2 files
-2023/10/14-17:00:52.016 1634 Generated table #119@1: 573 keys, 437303 bytes
-2023/10/14-17:00:52.016 1634 Compacted 1@1 + 1@2 files => 437303 bytes
-2023/10/14-17:00:52.046 1634 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/14-17:00:52.047 1634 Delete type=2 #113
-2023/10/14-17:00:52.047 1634 Delete type=2 #117
-2023/10/14-19:40:34.098 1634 Level-0 table #121: started
-2023/10/14-19:40:34.231 1634 Level-0 table #121: 1155701 bytes OK
-2023/10/14-19:40:34.265 1634 Delete type=0 #118
-2023/10/14-19:41:01.994 1634 Level-0 table #123: started
-2023/10/14-19:41:02.023 1634 Level-0 table #123: 6593 bytes OK
-2023/10/14-19:41:02.046 1634 Delete type=0 #120
-2023/10/14-19:41:02.103 1634 Manual compaction at level-0 from '!settings!0BiJvMWaMZ79nplK' @ 72057594037927935 : 1 .. '!settings!zs6naZYgm2GX9jW9' @ 0 : 0; will stop at '!settings!xsIibSamNmuyQo5w' @ 10770 : 1
-2023/10/14-19:41:02.103 1634 Compacting 1@0 + 1@1 files
-2023/10/14-19:41:02.472 1634 Generated table #124@0: 22 keys, 24304 bytes
-2023/10/14-19:41:02.472 1634 Compacted 1@0 + 1@1 files => 24304 bytes
-2023/10/14-19:41:02.543 1634 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/10/14-19:41:02.544 1634 Delete type=2 #121
-2023/10/14-19:41:02.544 1634 Delete type=2 #123
-2023/10/14-19:41:02.586 1634 Manual compaction at level-0 from '!settings!xsIibSamNmuyQo5w' @ 10770 : 1 .. '!settings!zs6naZYgm2GX9jW9' @ 0 : 0; will stop at (end)
-2023/10/14-19:41:02.637 1634 Manual compaction at level-1 from '!settings!0BiJvMWaMZ79nplK' @ 72057594037927935 : 1 .. '!settings!zs6naZYgm2GX9jW9' @ 0 : 0; will stop at '!settings!xsIibSamNmuyQo5w' @ 10789 : 1
-2023/10/14-19:41:02.637 1634 Compacting 1@1 + 1@2 files
-2023/10/14-19:41:02.683 1634 Generated table #125@1: 577 keys, 433105 bytes
-2023/10/14-19:41:02.683 1634 Compacted 1@1 + 1@2 files => 433105 bytes
-2023/10/14-19:41:02.708 1634 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/14-19:41:02.709 1634 Delete type=2 #119
-2023/10/14-19:41:02.709 1634 Delete type=2 #124
-2023/10/14-19:41:02.735 1634 Manual compaction at level-1 from '!settings!xsIibSamNmuyQo5w' @ 10789 : 1 .. '!settings!zs6naZYgm2GX9jW9' @ 0 : 0; will stop at (end)
+2023/10/16-16:04:48.522 4b3c Recovering log #188
+2023/10/16-16:04:48.561 4b3c Level-0 table #190: started
+2023/10/16-16:04:48.620 4b3c Level-0 table #190: 49230 bytes OK
+2023/10/16-16:04:48.672 4b3c Delete type=0 #188
+2023/10/16-16:04:48.672 4b3c Delete type=3 #187
+2023/10/16-16:54:15.870 908 Moved #190 to level-1 49230 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2023/10/16-17:16:20.858 908 Compacting 1@1 + 1@2 files
+2023/10/16-17:16:20.899 908 Generated table #192@1: 584 keys, 432356 bytes
+2023/10/16-17:16:20.899 908 Compacted 1@1 + 1@2 files => 432356 bytes
+2023/10/16-17:16:20.922 908 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/16-17:16:20.922 908 Delete type=2 #186
+2023/10/16-17:16:20.923 908 Delete type=2 #190
+2023/10/16-18:47:36.026 908 Level-0 table #194: started
+2023/10/16-18:47:36.075 908 Level-0 table #194: 68299 bytes OK
+2023/10/16-18:47:36.096 908 Delete type=0 #191
+2023/10/16-18:47:36.279 908 Manual compaction at level-0 from '!settings!0BiJvMWaMZ79nplK' @ 72057594037927935 : 1 .. '!settings!zs6naZYgm2GX9jW9' @ 0 : 0; will stop at (end)
+2023/10/16-18:47:36.401 908 Manual compaction at level-1 from '!settings!0BiJvMWaMZ79nplK' @ 72057594037927935 : 1 .. '!settings!zs6naZYgm2GX9jW9' @ 0 : 0; will stop at '!settings!xsIibSamNmuyQo5w' @ 12664 : 1
+2023/10/16-18:47:36.401 908 Compacting 1@1 + 1@2 files
+2023/10/16-18:47:36.455 908 Generated table #195@1: 585 keys, 432144 bytes
+2023/10/16-18:47:36.455 908 Compacted 1@1 + 1@2 files => 432144 bytes
+2023/10/16-18:47:36.475 908 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/16-18:47:36.475 908 Delete type=2 #192
+2023/10/16-18:47:36.475 908 Delete type=2 #194
+2023/10/16-18:47:37.744 908 Manual compaction at level-1 from '!settings!xsIibSamNmuyQo5w' @ 12664 : 1 .. '!settings!zs6naZYgm2GX9jW9' @ 0 : 0; will stop at (end)

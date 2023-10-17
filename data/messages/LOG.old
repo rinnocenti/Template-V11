@@ -1,7 +1,26 @@
-2023/10/14-15:39:00.751 2af8 Recovering log #100
-2023/10/14-15:39:00.810 2af8 Delete type=0 #100
-2023/10/14-15:39:00.811 2af8 Delete type=3 #99
-2023/10/14-19:41:01.494 1634 Level-0 table #104: started
-2023/10/14-19:41:01.566 1634 Level-0 table #104: 798097 bytes OK
-2023/10/14-19:41:01.594 1634 Delete type=0 #102
-2023/10/14-19:41:01.652 1634 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2023/10/16-16:04:45.160 4b3c Recovering log #159
+2023/10/16-16:04:45.165 4b3c Level-0 table #161: started
+2023/10/16-16:04:45.197 4b3c Level-0 table #161: 671 bytes OK
+2023/10/16-16:04:45.242 4b3c Delete type=0 #159
+2023/10/16-16:04:45.242 4b3c Delete type=3 #158
+2023/10/16-18:47:32.289 908 Level-0 table #164: started
+2023/10/16-18:47:32.319 908 Level-0 table #164: 19492 bytes OK
+2023/10/16-18:47:32.348 908 Delete type=0 #162
+2023/10/16-18:47:32.455 908 Manual compaction at level-0 from '!messages!Cm7JW6PnZ2yOWeFU' @ 72057594037927935 : 1 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at '!messages!ysCMMce3MkgIFvIr' @ 4400 : 1
+2023/10/16-18:47:32.455 908 Compacting 3@0 + 1@1 files
+2023/10/16-18:47:32.504 908 Generated table #165@0: 305 keys, 9040 bytes
+2023/10/16-18:47:32.505 908 Compacted 3@0 + 1@1 files => 9040 bytes
+2023/10/16-18:47:32.539 908 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/16-18:47:32.539 908 Delete type=2 #150
+2023/10/16-18:47:32.539 908 Delete type=2 #154
+2023/10/16-18:47:32.540 908 Delete type=2 #161
+2023/10/16-18:47:32.540 908 Delete type=2 #164
+2023/10/16-18:47:32.631 908 Manual compaction at level-0 from '!messages!ysCMMce3MkgIFvIr' @ 4400 : 1 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at (end)
+2023/10/16-18:47:34.625 908 Manual compaction at level-1 from '!messages!Cm7JW6PnZ2yOWeFU' @ 72057594037927935 : 1 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at '!messages!zoSKf3A6rMu2tinL' @ 4057 : 0
+2023/10/16-18:47:34.625 908 Compacting 1@1 + 1@2 files
+2023/10/16-18:47:34.646 908 Generated table #166@1: 8 keys, 1190 bytes
+2023/10/16-18:47:34.646 908 Compacted 1@1 + 1@2 files => 1190 bytes
+2023/10/16-18:47:34.661 908 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/16-18:47:34.661 908 Delete type=2 #146
+2023/10/16-18:47:34.662 908 Delete type=2 #165
+2023/10/16-18:47:35.046 908 Manual compaction at level-1 from '!messages!zoSKf3A6rMu2tinL' @ 4057 : 0 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at (end)
