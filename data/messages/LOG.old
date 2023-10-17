@@ -1,8 +1,26 @@
-2023/10/14-21:14:50.998 8ec Recovering log #122
-2023/10/14-21:14:51.237 8ec Delete type=0 #122
-2023/10/14-21:14:51.237 8ec Delete type=3 #120
-2023/10/14-21:17:22.078 3270 Level-0 table #127: started
-2023/10/14-21:17:22.078 3270 Level-0 table #127: 0 bytes OK
-2023/10/14-21:17:22.270 3270 Delete type=0 #125
-2023/10/14-21:17:22.366 3270 Manual compaction at level-0 from '!messages!Ntl4pwju7XwaoXHV' @ 72057594037927935 : 1 .. '!messages!iEupoht32aJfKARj' @ 0 : 0; will stop at (end)
-2023/10/14-21:17:22.366 3270 Manual compaction at level-1 from '!messages!Ntl4pwju7XwaoXHV' @ 72057594037927935 : 1 .. '!messages!iEupoht32aJfKARj' @ 0 : 0; will stop at (end)
+2023/10/16-16:04:45.160 4b3c Recovering log #159
+2023/10/16-16:04:45.165 4b3c Level-0 table #161: started
+2023/10/16-16:04:45.197 4b3c Level-0 table #161: 671 bytes OK
+2023/10/16-16:04:45.242 4b3c Delete type=0 #159
+2023/10/16-16:04:45.242 4b3c Delete type=3 #158
+2023/10/16-18:47:32.289 908 Level-0 table #164: started
+2023/10/16-18:47:32.319 908 Level-0 table #164: 19492 bytes OK
+2023/10/16-18:47:32.348 908 Delete type=0 #162
+2023/10/16-18:47:32.455 908 Manual compaction at level-0 from '!messages!Cm7JW6PnZ2yOWeFU' @ 72057594037927935 : 1 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at '!messages!ysCMMce3MkgIFvIr' @ 4400 : 1
+2023/10/16-18:47:32.455 908 Compacting 3@0 + 1@1 files
+2023/10/16-18:47:32.504 908 Generated table #165@0: 305 keys, 9040 bytes
+2023/10/16-18:47:32.505 908 Compacted 3@0 + 1@1 files => 9040 bytes
+2023/10/16-18:47:32.539 908 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/16-18:47:32.539 908 Delete type=2 #150
+2023/10/16-18:47:32.539 908 Delete type=2 #154
+2023/10/16-18:47:32.540 908 Delete type=2 #161
+2023/10/16-18:47:32.540 908 Delete type=2 #164
+2023/10/16-18:47:32.631 908 Manual compaction at level-0 from '!messages!ysCMMce3MkgIFvIr' @ 4400 : 1 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at (end)
+2023/10/16-18:47:34.625 908 Manual compaction at level-1 from '!messages!Cm7JW6PnZ2yOWeFU' @ 72057594037927935 : 1 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at '!messages!zoSKf3A6rMu2tinL' @ 4057 : 0
+2023/10/16-18:47:34.625 908 Compacting 1@1 + 1@2 files
+2023/10/16-18:47:34.646 908 Generated table #166@1: 8 keys, 1190 bytes
+2023/10/16-18:47:34.646 908 Compacted 1@1 + 1@2 files => 1190 bytes
+2023/10/16-18:47:34.661 908 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/16-18:47:34.661 908 Delete type=2 #146
+2023/10/16-18:47:34.662 908 Delete type=2 #165
+2023/10/16-18:47:35.046 908 Manual compaction at level-1 from '!messages!zoSKf3A6rMu2tinL' @ 4057 : 0 .. '!messages!wg7rd1OLb4axmE3H' @ 0 : 0; will stop at (end)

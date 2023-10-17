@@ -1,0 +1,228 @@
+{
+  "sceneMap": [
+    [
+      0,
+      ""
+    ],
+    [
+      1,
+      "9dch4ojtCIOnhWW3"
+    ]
+  ],
+  "shapeQueueArray": [
+    [
+      {
+        "gridPosition": [
+          19,
+          31
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          20,
+          31
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          15,
+          43
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          17,
+          35
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          17,
+          36
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          20,
+          39
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          36
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          36
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          18,
+          41
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          19,
+          40
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          19,
+          40
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          40
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          15,
+          40
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          15,
+          40
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          41
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          20,
+          47
+        ],
+        "pixelValue": 0,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          37
+        ],
+        "pixelValue": 1,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          37
+        ],
+        "pixelValue": 1,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          38
+        ],
+        "pixelValue": 1,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          16,
+          39
+        ],
+        "pixelValue": 1,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          17,
+          39
+        ],
+        "pixelValue": 1,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          17,
+          38
+        ],
+        "pixelValue": 1,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      },
+      {
+        "gridPosition": [
+          17,
+          37
+        ],
+        "pixelValue": 1,
+        "layer": 0,
+        "type": "TerrainGridSquare"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

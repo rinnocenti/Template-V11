@@ -1,8 +1,7 @@
-2023/10/14-21:21:28.040 47a0 Recovering log #126
-2023/10/14-21:21:28.096 47a0 Delete type=0 #126
-2023/10/14-21:21:28.096 47a0 Delete type=3 #124
-2023/10/14-21:37:17.222 4a80 Level-0 table #131: started
-2023/10/14-21:37:17.222 4a80 Level-0 table #131: 0 bytes OK
-2023/10/14-21:37:17.247 4a80 Delete type=0 #129
-2023/10/14-21:37:17.305 4a80 Manual compaction at level-0 from '!messages!Ntl4pwju7XwaoXHV' @ 72057594037927935 : 1 .. '!messages!iEupoht32aJfKARj' @ 0 : 0; will stop at (end)
-2023/10/14-21:37:17.305 4a80 Manual compaction at level-1 from '!messages!Ntl4pwju7XwaoXHV' @ 72057594037927935 : 1 .. '!messages!iEupoht32aJfKARj' @ 0 : 0; will stop at (end)
+2023/10/16-18:49:07.333 4b3c Recovering log #163
+2023/10/16-18:49:07.373 4b3c Delete type=0 #163
+2023/10/16-18:49:07.373 4b3c Delete type=3 #160
+2023/10/17-01:09:34.522 908 Level-0 table #170: started
+2023/10/17-01:09:34.568 908 Level-0 table #170: 38555 bytes OK
+2023/10/17-01:09:34.588 908 Delete type=0 #168
+2023/10/17-01:09:34.668 908 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
